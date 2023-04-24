@@ -1,0 +1,1 @@
+document.write("Hi我是20605吳宜芯 ")
